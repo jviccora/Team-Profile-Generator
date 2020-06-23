@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jviccora/week10hw.git"
+    "url": "git+https://github.com/jviccora/Team-Profile-Generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jviccora/week10hw/issues"
+    "url": "https://github.com/jviccora/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/jviccora/week10hw#readme",
+  "homepage": "https://github.com/jviccora/Team-Profile-Generator/#readme",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
